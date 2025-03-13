@@ -18,8 +18,7 @@ O projeto permite que os usuários:
 - **JavaScript**: Lógica para adicionar nomes, validar entradas e realizar o sorteio.
 
 ## Como usar
-1. Abra o arquivo `index.html` no navegador.
-2. Adicione os nomes dos amigos e clique em "Sortear Amigo" para ver o resultado.
+1. Adicione os nomes dos amigos e clique em "Sortear Amigo" para ver o resultado.
 
 ## Estrutura do projeto
 - `index.html`: Contém a estrutura da página.
